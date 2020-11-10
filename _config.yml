@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Minimal Mistakes"
+title                    : "Zona Siswa"
 title_separator          : "-"
-name                     : &name "Michael Rose"
-description              : &description "A flexible Jekyll theme for your blog or site with a minimalist aesthetic."
+name                     : &name "Admin"
+description              : &description "Platform Belajar Online Untuk Kamu."
 url                      : https://aminelhanipb.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mmistakes/minimal-mistakes"
